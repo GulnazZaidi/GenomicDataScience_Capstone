@@ -1,0 +1,18 @@
+	SampleName	Group Age	Sex	Disease	RIN
+SRR1554535	SRR1554535	Adult	41.58	male	control	8.7	
+SRR1554537	SRR1554537	Fetal	-0.3836	female	control	9.6	
+SRR1554539	SRR1554539	Adult	36.5	female	control	9
+SRR1554556	SRR1554556	Adult	36.98	male	control	8.5	
+SRR1554561	SRR1554561	Adult	43.88	male	control	8.	
+SRR1554566	SRR1554566	Fetal	-0.4986	male	control	8.3
+SRR1554567	SRR1554567	Fetal	-0.4027	male	control	8.6
+SRR1554568	SRR1554568	Fetal	-0.4986 male	control	8	
+
+
+
+
+
+
+
+
+
